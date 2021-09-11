@@ -1,2 +1,3 @@
-# Java
-Neste repositório está reunido todas as minhas atividades de treino/prática relacionado a linguagem de programação Java
+# 
+
+<img src="https://marcas-logos.net/wp-content/uploads/2020/11/Java-logo-600x336.png">
