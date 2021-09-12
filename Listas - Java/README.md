@@ -7,7 +7,7 @@
 <h3>📌  Índice  📌</h3>
 
 * [Lista 01 - Fundamentos/Nivelamento](#lista-01---fundamentosnivelamento)
-* [Lista 03 - Fundamentos/Nivelamento](#lista-03---métodos)
+* [Lista 03 - Métodos](#lista-03---métodos)
 
 ## Lista 01 - Fundamentos/Nivelamento
 
@@ -56,43 +56,5 @@
 ## Lista 03 - Métodos
 
 <img src="https://i.imgur.com/l1zeOOv.png" height="400px">
-
-
-
-
-
-  
-
-
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
