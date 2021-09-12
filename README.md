@@ -4,14 +4,14 @@
 
 <h2> ✅ Tópicos presentes</h2>
 
-   * [Padrões de nomenclatura](https://github.com/Mateuzx/Java-Fundamentos/tree/main/Listas%20-%20Java)
-   * [Tipos Primitivos](https://github.com/Mateuzx/Java-Fundamentos/tree/main/Listas%20-%20Java)
-   * [Scanner](https://github.com/Mateuzx/Java-Fundamentos/tree/main/Listas%20-%20Java)
-   * [Condicionais](https://github.com/Mateuzx/Java-Fundamentos/tree/main/Listas%20-%20Java)
-   * [Estruturas de Repetição](https://github.com/Mateuzx/Java-Fundamentos/tree/main/Listas%20-%20Java)
-   * [Interpolação](https://github.com/Mateuzx/Java-Fundamentos/tree/main/Listas%20-%20Java)
-   * [Números Randômicos](https://github.com/Mateuzx/Java-Fundamentos/tree/main/Listas%20-%20Java)
-   * [Métodos](https://github.com/Mateuzx/Java-Fundamentos/tree/main/Listas%20-%20Java)
+   * Padrões de nomenclatura
+   * Tipos Primitivos
+   * Scanner
+   * Condicionais
+   * Estruturas de Repetição
+   * Interpolação
+   * Números Randômicos
+   * Métodos
 
 <h2> 🧪 Ferramentas e tecnologias</h2>
 
