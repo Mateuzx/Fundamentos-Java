@@ -29,11 +29,11 @@
 
 * Bolsa Filhos (Simulação de bolsa família)
 
-<img src="https://i.imgur.com/68Tcm3p.png" height="180px">
+<img src="https://i.imgur.com/MpXDHKo.png" height="180px">
 
 * Idade (Calculo de idade para um ano específico)
 
-<img src="https://i.imgur.com/ld87SuO.png" height="180px">
+<img src="https://i.imgur.com/ld87SuO.png" height="120px">
 
 * Média
 
@@ -41,7 +41,7 @@
 
 * Salário Líquido
 
-<img src="https://i.imgur.com/6sy8zUf.png" height="180px">
+<img src="https://i.imgur.com/6sy8zUf.png" height="250px">
 
 * Calculo de Exercícios
 
