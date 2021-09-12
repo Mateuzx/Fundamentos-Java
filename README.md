@@ -13,6 +13,9 @@
    * Números Randômicos
    * Métodos
 
+<h2> 📑 Como utilizar</h2>
+  Todos os projetos foram exportados pelo NeatBeans, fazendo com que todas as pastas raizes estarem disponiveis, então é recomendado realizar a importação segura dos projetos (Listas) pela IDE que estiver em uso. Também é possivel realizar o acesso do código de forma direta nos arquivos que contém ".java" no final.
+
 <h2> 🧪 Ferramentas e tecnologias</h2>
 
 <h4> Como ambiente de desenvolvimento foi utilizado a IDE NetBeans </h4>
