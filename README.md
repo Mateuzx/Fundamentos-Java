@@ -6,6 +6,7 @@
 
    * Padrões de nomenclatura
    * Tipos Primitivos
+   * Lógica
    * Scanner
    * Condicionais
    * Estruturas de Repetição
