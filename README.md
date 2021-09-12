@@ -15,7 +15,7 @@
 
 <h2> 🧪 Ferramentas e tecnologias</h2>
 
-<h4> Como ambiente de desenvolvimento utilizei a IDE NetBeans </h4>
+<h4> Como ambiente de desenvolvimento foi utilizado a IDE NetBeans </h4>
 
 - [Apache NetBeans 12.0](https://netbeans.apache.org/download/index.html)
 
