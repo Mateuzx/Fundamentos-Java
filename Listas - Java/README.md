@@ -33,7 +33,7 @@
 
 * Idade (Calculo de idade para um ano específico)
 
-<img src="https://i.imgur.com/68Tcm3p.png" height="180px">
+<img src="https://i.imgur.com/ld87SuO.png" height="180px">
 
 * Média
 
