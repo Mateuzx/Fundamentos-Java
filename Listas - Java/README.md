@@ -4,7 +4,7 @@
 
 <h2>Enunciados</h2>
 
-<h3>📌  Sumário  📌</h3>
+<h3>📌  Índice  📌</h3>
 
 * [Lista 01 - Fundamentos/Nivelamento](#lista-01---fundamentosnivelamento)
 * [Lista 03 - Fundamentos/Nivelamento](#lista-03---métodos)
