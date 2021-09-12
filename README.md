@@ -19,7 +19,7 @@
 
 - [Apache NetBeans 12.0](https://netbeans.apache.org/download/index.html)
 
-<h4> Como Linguagem de programação utilizei JAVA </h4>
+<h4> Como Linguagem de programação foi utilizado Java </h4>
 
 - [JDK 11.0](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html)
 
