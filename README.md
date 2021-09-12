@@ -2,7 +2,7 @@
   <img src="https://marcas-logos.net/wp-content/uploads/2020/11/Java-logo-600x336.png" height="100px">
 </h1>
 
-<h2> ✅ Tópicos presentes</h2>
+<h2> ✅ Tópicos do repositório</h2>
 
    * Padrões de nomenclatura
    * Tipos Primitivos
