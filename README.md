@@ -15,7 +15,7 @@
    * Métodos
 
 <h2> 📑 Como utilizar</h2>
-  Todos os projetos foram exportados pelo NeatBeans, fazendo com que todas as pastas raízes estejam disponíveis, então é recomendado realizar a importação segura dos projetos (Listas) pela IDE que estiver em uso. Também é possível realizar o acesso do código de maneira direta nos arquivos que contém ".java" no final.
+  Todos os projetos foram exportados pelo NeatBeans, fazendo com que todas as pastas raízes estejam disponíveis, então é recomendado realizar a importação segura dos projetos (Listas) pela IDE que estiver em uso. Também é possível realizar o acesso do código de maneira direta nos arquivos que contém ".java" como formato.
 
 <h2> 🧪 Ferramentas e tecnologias</h2>
 
