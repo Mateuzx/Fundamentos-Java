@@ -6,9 +6,28 @@
 
 <h3>📌  Índice  📌</h3>
 
+* [Avaliação continuada 01 - Simulação posto de gasolina](#avaliação-continuada-01---simulação-posto-de-gasolina)
 * [Lista 01 - Fundamentos/Nivelamento](#lista-01---fundamentosnivelamento)
 * [Lista 02 - Fundamentos](#lista-02---fundamentos)
 * [Lista 03 - Métodos](#lista-03---métodos)
+
+## Avaliação continuada 01 - Simulação posto de gasolina
+
+<h4>Avaliação continuada é o nome dado para as provas da faculdade BandTec, sendo divididas em: AC-01, AC-02 e AC-03 somando um total de 3 provas que são de extrema importância para o semestre letivo dos alunos.</h4> 
+
+<img src="https://i.imgur.com/WC5MIUC.png" height="450px">
+
+<img src="https://i.imgur.com/Ruw1nxL.png" height="55px">
+
+<img src="https://i.imgur.com/B8hnsiT.png" height="125px">
+
+<img src="https://i.imgur.com/8ujqWET.png" height="250px">
+
+<img src="https://i.imgur.com/nms0A1w.png" height="500px">
+
+<img src="https://i.imgur.com/cGpuc9M.png" height="100px">
+
+<img src="https://i.imgur.com/4pxGq1P.png" height="70px">
 
 ## Lista 01 - Fundamentos/Nivelamento
 
