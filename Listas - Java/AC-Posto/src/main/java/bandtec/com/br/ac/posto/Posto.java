@@ -45,6 +45,7 @@ public class Posto {
             System.out.println("\nEscolha os próximos passos: \n 1 - Abastecer veiculo \n 2 - Sair ");
             opcao = in.nextInt();
 
+            //Switch de opções disponiveis do programa
             switch (opcao) {
                 case 1:
                     System.out.println("Digite a quantidade de gasolina (litros)");
@@ -54,8 +55,8 @@ public class Posto {
 
                     //Laço para repetir até que o usuário escreva uma quantidade de gasolina válida
                     do {
+                        //Caso a quantidade desejada para o abastecimento estejam nos limites de gasolina disponível
                         if (validacao) {
-
                             for (Integer i = 1; i <= gasolina_abastecer; i++) {
                                 System.out.println(String.format(i > 1 ? "Abastecendo %dº litros" : "Abastecendo %dº litro", i));
                                 validacao = true;
@@ -63,10 +64,12 @@ public class Posto {
 
                             System.out.println(String.format("Total abastecido: %.2f.\nFaltam %.2f R$ para meta!",
                                     gasolina_abastecer, metaFaturamento(qntd_gasolina, valor_gasolina) - (valor_gasolina * gasolina_abastecer)));
-
+                            
+                            //Limite de gasolina diminuindo a medida que os abastecimentos ocorrem
                             qntd_gasolina -= gasolina_abastecer;
 
                         } else {
+                            //Caso todo o tanque de gasolina (Limite disponível) acabe.
                             if (qntd_gasolina <= 0) {
                                 System.out.println("Infelizmente estamos sem gasolina, volte outro dia!");
                                 continuacao = false;
@@ -81,6 +84,7 @@ public class Posto {
                     break;
 
                 case 2:
+                    //Se o usuário desejar sair do programa.
                     System.out.println("Até logo!");
                     continuacao = false;
                     break;
