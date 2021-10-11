@@ -10,6 +10,7 @@
 * [Lista 01 - Fundamentos/Nivelamento](#lista-01---fundamentosnivelamento)
 * [Lista 02 - Fundamentos](#lista-02---fundamentos)
 * [Lista 03 - Métodos](#lista-03---métodos)
+* [Lista 04 - Instâncias/Início POO](#lista-04---instânciasinício-poo)
 
 ## Avaliação continuada 01 - Simulação posto de gasolina
 
@@ -87,5 +88,13 @@
 ## Lista 03 - Métodos
 
 <img src="https://i.imgur.com/l1zeOOv.png" height="400px">
+
+## Lista 04 - Instâncias/Início POO
+
+<img src="https://i.imgur.com/sBrf0ge.png" height="250px">
+
+<img src="https://i.imgur.com/ri4SS92.png" height="350px">
+
+<img src="https://i.imgur.com/2bRbIfP.png" height="350px">
 
 
