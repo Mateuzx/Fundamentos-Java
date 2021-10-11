@@ -7,12 +7,17 @@
    * Padrões de nomenclatura
    * Tipos Primitivos
    * Lógica
+   * Atributos
    * Scanner
    * Condicionais
    * Estruturas de Repetição
    * Interpolação
    * Números Randômicos
    * Métodos
+   * Classes
+   * Objetos
+   * Encapsulamento
+   * Construtores
 
 <h2> 📑 Como utilizar</h2>
   Todos os projetos foram exportados pelo NeatBeans, fazendo com que todas as pastas raízes estejam disponíveis, então possivel abrir os projetos pela propria pasta principal dos projetos (Listas) pela IDE que estiver em uso. Também é possível realizar o acesso do código de maneira direta nos arquivos que contém ".java" como formato.
@@ -30,41 +35,3 @@
 <h4 align="center"> 
 	🧰  Em desenvolvimento!  🧰
 </h4>
-
-
-
-  
-
-
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
