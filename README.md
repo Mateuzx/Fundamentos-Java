@@ -31,7 +31,4 @@
 <h4> Como Linguagem de programação foi utilizado Java </h4>
 
 - [JDK 11.0](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html)
-
-<h4 align="center"> 
-	🧰  Em desenvolvimento!  🧰
-</h4>
+- 
